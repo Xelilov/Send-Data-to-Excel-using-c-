@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\consoleLearn\consoleLearn\bin\Debug\consoleLearn.exe.config
+C:\Users\Admin\source\repos\consoleLearn\consoleLearn\bin\Debug\consoleLearn.exe
+C:\Users\Admin\source\repos\consoleLearn\consoleLearn\bin\Debug\consoleLearn.pdb
+C:\Users\Admin\source\repos\consoleLearn\consoleLearn\obj\Debug\consoleLearn.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\consoleLearn\consoleLearn\obj\Debug\consoleLearn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\consoleLearn\consoleLearn\obj\Debug\consoleLearn.exe
+C:\Users\Admin\source\repos\consoleLearn\consoleLearn\obj\Debug\consoleLearn.pdb
+C:\Users\Admin\Desktop\Islenen Layiheler\consoleLearn\consoleLearn\bin\Debug\consoleLearn.exe.config
+C:\Users\Admin\Desktop\Islenen Layiheler\consoleLearn\consoleLearn\bin\Debug\consoleLearn.exe
+C:\Users\Admin\Desktop\Islenen Layiheler\consoleLearn\consoleLearn\bin\Debug\consoleLearn.pdb
+C:\Users\Admin\Desktop\Islenen Layiheler\consoleLearn\consoleLearn\obj\Debug\consoleLearn.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Islenen Layiheler\consoleLearn\consoleLearn\obj\Debug\consoleLearn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Islenen Layiheler\consoleLearn\consoleLearn\obj\Debug\consoleLearn.exe
+C:\Users\Admin\Desktop\Islenen Layiheler\consoleLearn\consoleLearn\obj\Debug\consoleLearn.pdb
+C:\Users\Admin\Desktop\Islenen Layiheler\consoleLearn\consoleLearn\obj\Debug\consoleLearn.csproj.ResolveComReference.cache
